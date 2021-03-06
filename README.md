@@ -1,4 +1,4 @@
-### Hello, World!  Gilberto here 👋
+### Hello, World!  Gilberto here
 
 ---
 
@@ -42,7 +42,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=datagf&show_icons=true&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datagf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
