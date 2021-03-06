@@ -40,11 +40,8 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <img src="https://img.shields.io/badge/-Jupyter-767676?style=flat&logo=jupyter&logoColor=orange">
 <img src="http://img.shields.io/badge/-VS%20Code-0076c6?style=flat&logo=visual%20studio%20code&logoColor=white">
 
----
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=datagf&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datagf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 ### Welcome to my social network! 🌍
 
