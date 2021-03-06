@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataGF/files/main/1602064705456.jpeg" width="100%" title="Intro Card" alt="Intro Card">
-</p> <br>
+</p>
 
 I am a Data Analysis and Data Science explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink: <br>
 
@@ -32,11 +32,11 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
             </td>
         </tr>   
     </table>
-</center><br><br>
+</center><br>
 
 
-### Tech & Tools Preference <br>
-
+### Tech & Tools Preference 
+<br><br>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-130655.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
@@ -61,7 +61,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=for-the-badge&logo=sublime-text&logoColor=white">
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white">
-</p><br><br>
+</p>
 
 
 ### Welcome to my social network! 🌍 <br>
@@ -80,13 +80,12 @@ for connect_with_me in social_network:
 
 Output:
 ```
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/datagf/en)</br>
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/DataGF/)</br>
-[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://www.datagf.medium.com/)</br>
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/DataGF1)</br>
-[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/datagf)</br>
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/DataGF.Official/)</br>
-<br>
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/datagf/en)<br>
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://www.github.com/DataGF/)<br>
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://www.datagf.medium.com/)<br>
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/DataGF1)<br>
+[<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/datagf)<br>
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/DataGF.Official/)<br>
 
 Let's connect! 😁✌ <br>
 
