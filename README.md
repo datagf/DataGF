@@ -17,6 +17,7 @@
     </table>
 </div>
 I am a Data Analysis and Data Science explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink:
+ 
 
 
  🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
