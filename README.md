@@ -1,33 +1,24 @@
-### Hello, World!  Gilberto here <img src="https://media.tenor.com/images/099ee298a01b561c1ed26a6b9a47cbdb/tenor.gif" width="45px">
+### Hello, World!  Gilberto here <img src="https://media.tenor.com/images/099ee298a01b561c1ed26a6b9a47cbdb/tenor.gif" width="45px"> <br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataGF/files/main/1602064705456.jpeg" width="100%" title="Intro Card" alt="Intro Card">
-</p>
+</p> <br>
 
+I am a Data Analysis and Data Science explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink: <br>
 
-I am a Data Analysis and Data Science explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink:
-
-
- 🎯 I’m working on **IMDb films: Data Analysis for Beginners** project
+ 🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
  
+ :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
  
- :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/)
+ 😎 Soon... <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=white"> Data Science <br>
  
+ ❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist <br>
  
- 😎 Soon... <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=white"> Data Science
+ 💪 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform** <br>
  
- 
- ❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist
- 
- 
- 💪 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform**
- 
-
- 🙋‍♂️ I’m looking to collaborate for **Data Science based project**
- 
- 
- 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff
- 
+ 🙋‍♂️ I’m looking to collaborate for **Data Science based project** <br>
+  
+ 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br><br>
  
  
 <center>
@@ -41,11 +32,10 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
             </td>
         </tr>   
     </table>
-</center>
+</center><br><br>
 
 
-
-### Tech & Tools Preference
+### Tech & Tools Preference <br>
 
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white">
@@ -71,11 +61,10 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
 <img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=for-the-badge&logo=sublime-text&logoColor=white">
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white">
-</p>
+</p><br><br>
 
 
-
-### Welcome to my social network! 🌍
+### Welcome to my social network! 🌍 <br>
 
 ```
 # My social network list 
@@ -97,10 +86,10 @@ Output:
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.twitter.com/DataGF1)</br>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/datagf)</br>
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/DataGF.Official/)</br>
-<br/>
+<br>
 
-Let's connect! 😁✌
+Let's connect! 😁✌ <br>
 
-**Check my Repos and Remember to Give a Star!** 
+**Check my Repos and Remember to Give a Star!** <br>
 
 :star: From [DataGF](https://github.com/datagf)
