@@ -18,7 +18,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  
  🙋‍♂️ I’m looking to collaborate for **Data Science based project** <br>
   
- 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br><br>
+ 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br>
  
  
 <center>
@@ -36,7 +36,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 
 
 ### Tech & Tools Preference 
-<br><br>
+<br>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-130655.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
@@ -62,7 +62,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=for-the-badge&logo=sublime-text&logoColor=white">
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white">
 </p>
-
+<br>
 
 ### Welcome to my social network! 🌍 <br>
 
