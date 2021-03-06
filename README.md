@@ -10,20 +10,39 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 
  🎯 I’m working on **IMDb films: Data Analysis for Beginners** project
  
+ 
  :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/)
+ 
  
  😎 Soon... <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=white"> Data Science
  
+ 
  ❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist
  
+ 
  💪 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform**
+ 
 
  🙋‍♂️ I’m looking to collaborate for **Data Science based project**
  
+ 
  💬 Ask me about Data Analysis, Data Science, and any tech-related stuff
+ 
+ 
+ 
+<center>
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=datagf&show_icons=true" />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datagf&layout=compact"/>
+            </td>
+        </tr>   
+    </table>
+</center>
 
-
-___
 
 
 ### Tech & Tools Preference
@@ -54,21 +73,6 @@ ___
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white">
 </p>
 
-
-<center>
-    <table>
-        <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=datagf&show_icons=true" />
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datagf&layout=compact"/>
-            </td>
-        </tr>   
-    </table>
-</center>
-
-___
 
 
 ### Welcome to my social network! 🌍
