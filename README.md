@@ -34,6 +34,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
     </table>
 </center><br>
 
+---
 
 ### Tech & Tools Preference 
 <br>
@@ -63,6 +64,8 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white">
 </p>
 <br>
+
+---
 
 ### Welcome to my social network! 🌍 <br>
 
