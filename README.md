@@ -35,7 +35,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  
 ---
 <br>
-### Tech & Tools Preference 
+<h3> Tech & Tools Preference 💻 </h3>
 <br>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white">
@@ -66,7 +66,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 
 ---
 <br>
-### Welcome to my social network! 🌍 <br>
+<h3> Welcome to my social network! 🌍 </h3> <br>
 
 ```
 # My social network list 
