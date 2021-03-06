@@ -34,7 +34,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br><br>
  
 ---
-<br>
+
 <h3> Tech & Tools Preference 💻 </h3>
 <br>
 <p align="center">
@@ -65,7 +65,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <br>
 
 ---
-<br>
+
 <h3> Welcome to my social network! 🌍 </h3> <br>
 
 ```
