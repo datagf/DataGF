@@ -3,24 +3,29 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataGF/files/main/1602064705456.jpeg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
-
+</br>
 I am a Data Analysis and Data Science explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink:
+</br>
+ 🎯 I’m working on **IMDb films: Data Analysis for Beginners** project</br>
  
- 🎯 I’m working on **IMDb films: Data Analysis for Beginners** project
+ :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/)</br>
  
- :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/)
+ 😎 Soon... <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=white"> Data Science</br>
  
- 😎 Soon... <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=white"> Data Science
+ ❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist</br>
  
- ❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist
- 
- 💪 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform**
+ 💪 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform**</br>
 
- 🙋‍♂️ I’m looking to collaborate for **Data Science based project**
+ 🙋‍♂️ I’m looking to collaborate for **Data Science based project**</br>
  
- 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff
+ 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff</br>
+
+
+___
+
 
 ### Tech & Tools Preference
+
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white">
 <img alt="Pandas" src="https://img.shields.io/badge/pandas-130655.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
@@ -47,6 +52,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white">
 </p>
 
+
 <center>
     <table>
         <tr>
@@ -59,6 +65,9 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
         </tr>   
     </table>
 </center>
+
+___
+
 
 ### Welcome to my social network! 🌍
 
