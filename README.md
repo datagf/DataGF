@@ -25,16 +25,29 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 ---
 
 ### Tech & Tools Preference
-<img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
-<img alt="Pandas" src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-<img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-<img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-<img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<p align="center">
+<img alt="Python" src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white">
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-130655.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="NumPy" src="https://img.shields.io/badge/numpy-4b73ca.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
+<img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f47727.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
+<img alt="R" src="https://img.shields.io/badge/R-2064b5?style=for-the-badge&logo=r&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30648c?style=for-the-badge&logo=postgresql&logoColor=white">
+<img alt="MySQL" src="https://img.shields.io/badge/MySQL-dc712a?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/C%20&%20C++-1934f6?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Git" src="https://img.shields.io/badge/Git-e84e32?style=for-the-badge&logo=git&logoColor=white">
+<img alt="C" src="https://img.shields.io/badge/-GitHub-1c1e23?style=for-the-badge&logo=github">
+<img alt="HTML5" src="https://img.shields.io/badge/-HTML5-dd4b24?style=for-the-badge&logo=html5&logoColor=white">
+<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-026db5?style=for-the-badge&logo=css3">
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8110f4?style=for-the-badge&logo=bootstrap">
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+<img alt="Linux" src="https://img.shields.io/badge/Linux-efba1f?style=for-the-badge&logo=linux&logoColor=black"/>
+<img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-293036?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Trello-007AC0?style=for-the-badge&logo=trello">
+<img src="https://img.shields.io/badge/slack-red.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=for-the-badge&logo=sublime-text&logoColor=white">
+</p>
 
 ### Other Knowlegments
 <img src="http://img.shields.io/badge/-Java-e32c2e?style=flat&logo=java&logoColor=#e32c2e">
