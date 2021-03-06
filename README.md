@@ -1,6 +1,4 @@
-### Hello, World!  Gilberto here
-
----
+### Hello, World!  Gilberto here <img src="https://media.tenor.com/images/099ee298a01b561c1ed26a6b9a47cbdb/tenor.gif" width="45px">
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/DataGF/files/main/1602064705456.jpeg" width="100%" title="Intro Card" alt="Intro Card">
@@ -22,8 +20,6 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  
  💬 Ask me about Data Analysis, Data Science, and any tech-related stuff
 
----
-
 ### Tech & Tools Preference
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white">
@@ -33,30 +29,36 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <img alt="R" src="https://img.shields.io/badge/R-2064b5?style=for-the-badge&logo=r&logoColor=white">
 <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30648c?style=for-the-badge&logo=postgresql&logoColor=white">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-dc712a?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/C%20&%20C++-1934f6?&style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%20&%20C++-1934f6?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-e32c2e?style=for-the-badge&logo=java&logoColor=white"/>
 <img alt="Git" src="https://img.shields.io/badge/Git-e84e32?style=for-the-badge&logo=git&logoColor=white">
 <img alt="C" src="https://img.shields.io/badge/-GitHub-1c1e23?style=for-the-badge&logo=github">
 <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-dd4b24?style=for-the-badge&logo=html5&logoColor=white">
 <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-026db5?style=for-the-badge&logo=css3">
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8110f4?style=for-the-badge&logo=bootstrap">
+<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-8110f4?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img alt="Microsoft Azure" src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
 <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
 <img alt="Linux" src="https://img.shields.io/badge/Linux-efba1f?style=for-the-badge&logo=linux&logoColor=black"/>
 <img alt="Shell Script" src="https://img.shields.io/badge/Shell_Script-293036?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/-Trello-007AC0?style=for-the-badge&logo=trello">
-<img src="https://img.shields.io/badge/slack-red.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
-<img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-<img src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=for-the-badge&logo=sublime-text&logoColor=white">
+<img alt="Trello" src="https://img.shields.io/badge/-Trello-007AC0?style=for-the-badge&logo=trello">
+<img alt="Slack" src="https://img.shields.io/badge/slack-red.svg?&style=for-the-badge&logo=slack&logoColor=white"/>
+<img alt="VSCode" src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+<img alt="Sublime" src="https://img.shields.io/badge/-Sublime%20Text-49505A?style=for-the-badge&logo=sublime-text&logoColor=white">
+<img alt="Google Colab" src="https://img.shields.io/badge/-Google Colab-000000?style=for-the-badge&logo=google-colab&logoColor=white">
 </p>
 
-### Other Knowlegments
-<img src="http://img.shields.io/badge/-Java-e32c2e?style=flat&logo=java&logoColor=#e32c2e">
-<img src="https://img.shields.io/badge/-C%20&%20C++-29348e?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Google Colab-black?style=flat&logo=google-colab">
-<img src="http://img.shields.io/badge/-VS%20Code-0076c6?style=flat&logo=visual%20studio%20code&logoColor=white">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=datagf&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=datagf&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<center>
+    <table>
+        <tr>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api?username=datagf&show_icons=true" />
+            </td>
+            <td>
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datagf&layout=compact"/>
+            </td>
+        </tr>   
+    </table>
+</center>
 
 ### Welcome to my social network! 🌍
 
@@ -81,7 +83,6 @@ Output:
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/datagf)</br>
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/DataGF.Official/)</br>
 <br/>
----
 
 Let's connect! 😁✌
 
