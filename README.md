@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/DataGF/files/main/1602064705456.jpeg" width="100%" title="Intro Card" alt="Intro Card">
 </p>
 
-<center>
+<div align="center">
     <table>
         <tr>
             <td>
@@ -15,8 +15,7 @@
             </td>
         </tr>   
     </table>
-</center><br>
-
+</div>
 I am a Data Analysis and Data Science explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink: <br>
 
  🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
