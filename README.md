@@ -31,10 +31,10 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  
  🙋‍♂️ I’m looking to collaborate for **Data Science based project** <br>
   
- 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br>
+ 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br><br>
  
 ---
-
+<br>
 ### Tech & Tools Preference 
 <br>
 <p align="center">
@@ -65,7 +65,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <br>
 
 ---
-
+<br>
 ### Welcome to my social network! 🌍 <br>
 
 ```
