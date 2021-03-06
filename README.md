@@ -18,21 +18,23 @@
 </div>
 I am a Data Analysis and Data Science explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink:
  
+---
 
-
- 🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
+<h3> At the Moment... 🚀 </h3>
+<br>
+🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
  
- :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
+:books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
  
- 😎 Soon... <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=white"> Data Science <br>
+😎 Soon... <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=white"> Data Science <br>
  
- ❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist <br>
+❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist <br>
  
- 💪 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform** <br>
+💪 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform** <br>
  
- 🙋‍♂️ I’m looking to collaborate for **Data Science based project** <br>
+🙋‍♂️ I’m looking to collaborate for **Data Science based project** <br>
   
- 💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br>
+💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br>
  
 ---
 
