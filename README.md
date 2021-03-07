@@ -38,14 +38,19 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  
 ---
 
+<h3> Party time! 🕺 </h3>
+<br>
 <div align="center">
     <table>
         <tr>
-            <td>
+	<h4>Data Science Projects (Brazilian Portuguese)</h4>
+            <td>		
 		<a href="https://github.com/DataGF/data-science/tree/master/api-camara-dos-deputados"> <img src="https://raw.githubusercontent.com/DataGF/files/main/congresso-nacional.jpg" alt="API Congresso Nacional" width="100" height="100" />
+		<p align="center">Congress API</p>
             </td>
             <td>
 		<a href="https://github.com/DataGF/data-science/tree/master/api-futebol"> <img src="https://raw.githubusercontent.com/DataGF/files/main/soccer2-100x100.jpg" alt="API Futebol" width="100" height="100" />
+		<p align="center">Soccer API</p>
             </td>
         </tr>   
     </table>
