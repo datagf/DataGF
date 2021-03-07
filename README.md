@@ -38,6 +38,21 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  
 ---
 
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                [<img src="https://raw.githubusercontent.com/DataGF/files/main/news-ilustration.png" width="100px" high="100px" />](https://github.com/DataGF/data-science/tree/master/api-camara-dos-deputados)<br>
+            </td>
+            <td>
+                [<img src="https://raw.githubusercontent.com/DataGF/files/main/copa-do-brasil.png" width="100px" high="100px" />](https://github.com/DataGF/data-science/tree/master/api-futebol)<br>
+            </td>
+        </tr>   
+    </table>
+</div>
+
+---
+
 <h3> Tech & Tools Preference 💻 </h3>
 <br>
 <p align="center">
