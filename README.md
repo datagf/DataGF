@@ -42,10 +42,10 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
     <table>
         <tr>
             <td>
-                [<img src="https://raw.githubusercontent.com/DataGF/files/main/news-ilustration.png" width="100px" high="100px" />](https://github.com/DataGF/data-science/tree/master/api-camara-dos-deputados)<br>
+		<a href="https://github.com/DataGF/data-science/tree/master/api-camara-dos-deputados"> <img src="https://raw.githubusercontent.com/DataGF/files/main/congresso-nacional.jpg" alt="API Congresso Nacional" width="100" height="100" />
             </td>
             <td>
-                [<img src="https://raw.githubusercontent.com/DataGF/files/main/copa-do-brasil.png" width="100px" high="100px" />](https://github.com/DataGF/data-science/tree/master/api-futebol)<br>
+		<a href="https://github.com/DataGF/data-science/tree/master/api-futebol"> <img src="https://raw.githubusercontent.com/DataGF/files/main/soccer2-100x100.jpg" alt="API Futebol" width="100" height="100" />
             </td>
         </tr>   
     </table>
