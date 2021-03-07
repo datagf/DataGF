@@ -1,7 +1,7 @@
 ### Hello, World!  Gilberto here <img src="https://media.tenor.com/images/099ee298a01b561c1ed26a6b9a47cbdb/tenor.gif" width="45px"> <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DataGF/files/main/CapaGitHub3.jpg" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://giphy.com/embed/lR5jzuUhiFRS52zjwf" width="100%" title="Cover" alt="Github Readme Cover">
 </p>
 
 <div align="center">
