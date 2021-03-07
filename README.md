@@ -39,8 +39,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 ---
 
 <h3> Party time! 🕺 </h3>
-<br>
-<div align="center">
+<div align="left">
     <table>
         <tr>
 	<h4>Data Science Projects (Brazilian Portuguese)</h4>
