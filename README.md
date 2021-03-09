@@ -69,7 +69,16 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 		<p align="center">Soccer API</p>
             </td>
         </tr>
-    </table>    
+    </table>
+    <table>
+        <tr>
+	<h4>Business Analytics (English)</h4>
+            <td>		
+		<a href="https://github.com/DataGF/business-analytics/tree/main/predictive-profit-new-clients-catalog"> <img src="https://raw.githubusercontent.com/DataGF/files/main/business-analytics.jpg" alt="Predictive Business Analytics" width="100" height="100" />
+		<p align="center">Predictive BA</p>
+            </td>            
+        </tr>
+    </table>
 </div>
 
 ---
