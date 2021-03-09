@@ -42,6 +42,23 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <div align="left">
     <table>
         <tr>
+	<h4>Data Science Projects (English)</h4>
+            <td>		
+		<a href="https://github.com/DataGF/data-science/tree/master/stock-price-s%26p500"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
+		<p align="center">S&P500</p>
+            </td>
+	    <td>		
+		<a href="https://github.com/DataGF/covid-19"> <img src="https://raw.githubusercontent.com/DataGF/files/main/imagem_unnamed.jpg" alt="Covid-19" width="100" height="100" />
+		<p align="center">Covid-19</p>
+            </td>
+            <td>		
+		<a href="https://github.com/DataGF/data-science-python-exercises/tree/master/us-insurance-cost"> <img src="https://raw.githubusercontent.com/DataGF/files/main/medical.jpg" alt="US Insurance Cost" width="100" height="100" />
+		<p align="center">Insurance</p>
+            </td>
+        </tr>
+    </table>
+    <table>
+        <tr>
 	<h4>Data Science Projects (Portuguese)</h4>
             <td>		
 		<a href="https://github.com/DataGF/data-science/tree/master/api-camara-dos-deputados"> <img src="https://raw.githubusercontent.com/DataGF/files/main/congresso-nacional.jpg" alt="API Congresso Nacional" width="100" height="100" />
@@ -52,20 +69,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 		<p align="center">Soccer API</p>
             </td>
         </tr>
-    </table>
-    <table>
-        <tr>
-	<h4>Data Science Projects (English)</h4>
-            <td>		
-		<a href="https://github.com/DataGF/data-science/tree/master/stock-price-s%26p500"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
-		<p align="center">S&P500</p>
-            </td>
-	    <td>		
-		<a href="https://github.com/DataGF/covid-19"> <img src="https://raw.githubusercontent.com/DataGF/files/main/imagem_unnamed.jpg" alt="Covid-19" width="100" height="100" />
-		<p align="center">Covid-19</p>
-            </td>
-        </tr>
-    </table>
+    </table>    
 </div>
 
 ---
