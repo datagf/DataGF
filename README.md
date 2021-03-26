@@ -43,6 +43,10 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
     <table>
         <tr>
 	<h4>Data Science Projects (English)</h4>
+	    <td>		
+		<a href="https://gist.github.com/datagf"> <img src="https://raw.githubusercontent.com/DataGF/files/main/github.png" alt="S&P500" width="100" height="100" />
+		<p align="center">Gists</p>
+            </td>
             <td>		
 		<a href="https://github.com/DataGF/data-science/tree/master/stock-price-s%26p500"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
 		<p align="center">S&P500</p>
