@@ -82,8 +82,8 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 		<p align="center">Transportation</p>
             </td>
 	    <td>		
-		<a href="https://github.com/DataGF/business-analytics/tree/main/antecipating-customer-behavior"> <img src="https://raw.githubusercontent.com/DataGF/files/main/hotel-100x100.jpg" alt="Predictive Business Analytics" width="100" height="100" />
-		<p align="center">Hotel</p>
+		<a href="https://github.com/DataGF/business-analytics/blob/main/antecipating-customer-behavior/README-logistic-regression.md"> <img src="https://raw.githubusercontent.com/DataGF/files/main/behavior2.jpg" alt="Predictive Business Analytics" width="100" height="100" />
+		<p align="center">Behavior</p>
             </td>
             <td>		
 		<a href="https://github.com/DataGF/business-analytics/tree/main/predictive-profit-new-clients-catalog"> <img src="https://raw.githubusercontent.com/DataGF/files/main/business-analytics.jpg" alt="Predictive Business Analytics" width="100" height="100" />
