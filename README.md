@@ -69,7 +69,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 		<p align="center">Congress API</p>
             </td>
             <td>
-		<a href="https://github.com/DataGF/data-science/tree/master/api-futebol"> <img src="https://raw.githubusercontent.com/DataGF/files/main/soccer2-100x100.jpg" alt="API Futebol" width="100" height="100" />
+		<a href="https://github.com/DataGF/data-science/blob/master/api-futebol/Semana_2_Atividade_Laborat%C3%B3rio_API_Futebol.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/soccer2-100x100.jpg" alt="API Futebol" width="100" height="100" />
 		<p align="center">Soccer API</p>
             </td>
         </tr>
