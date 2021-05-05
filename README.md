@@ -86,7 +86,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 		<p align="center">Behavior</p>
             </td>
             <td>		
-		<a href="https://github.com/DataGF/business-analytics/tree/main/predictive-profit-new-clients-catalog"> <img src="https://raw.githubusercontent.com/DataGF/files/main/business-analytics.jpg" alt="Predictive Business Analytics" width="100" height="100" />
+		<a href="https://github.com/DataGF/business-analytics/blob/main/predictive-profit-new-clients-catalog/catalog-predictive-demand-check-alteryx.pdf"> <img src="https://raw.githubusercontent.com/DataGF/files/main/business-analytics.jpg" alt="Predictive Business Analytics" width="100" height="100" />
 		<p align="center">New Clients</p>
             </td>
 	    <td>		
