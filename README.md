@@ -26,7 +26,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  
 :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
  
-😎 <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=black"><b>Data Science</b><br>
+😎 <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=black"> Data Science <br>
  
 ❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist <br>
  
@@ -99,11 +99,11 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 <br>
 <p align="center">
 <img alt="Python" src="https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=white">
-<img alt="Pandas" src="https://img.shields.io/badge/pandas-130655.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
+<img alt="Pandas" src="https://img.shields.io/badge/pandas-130655.svg?&style=for-the-badge&logo=pandas&logoColor=#ffffff" />
 <img alt="NumPy" src="https://img.shields.io/badge/numpy-4b73ca.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
 <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-f47727.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 <img alt="R" src="https://img.shields.io/badge/R-2064b5?style=for-the-badge&logo=r&logoColor=white">
-<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30648c?style=for-the-badge&logo=postgresql&logoColor=white">
+<img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-30648c?style=for-the-badge&logo=postgresql&logoColor=#ffffff">
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-dc712a?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/C%20&%20C++-1934f6?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-e32c2e?style=for-the-badge&logo=java&logoColor=white"/>
