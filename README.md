@@ -88,7 +88,11 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
             <td>		
 		<a href="https://github.com/DataGF/business-analytics/tree/main/predictive-profit-new-clients-catalog"> <img src="https://raw.githubusercontent.com/DataGF/files/main/business-analytics.jpg" alt="Predictive Business Analytics" width="100" height="100" />
 		<p align="center">New Clients</p>
-            </td>	    	    
+            </td>
+	    <td>		
+		<a href="https://github.com/DataGF/business-analytics/blob/main/predicting-default-risk-new-clients/predicting-default-risk-new-clients.pdf"> <img src="https://raw.githubusercontent.com/DataGF/files/main/interest-rates2.jpg" alt="Predictive Business Analytics" width="100" height="100" />
+		<p align="center">Credit Risk</p>
+            </td>
         </tr>
     </table>
 </div>
