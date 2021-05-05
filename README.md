@@ -26,7 +26,7 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
  
 :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
  
-😎 Soon... <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=white"> Data Science <br>
+😎 <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=black"><b>Data Science</b><br>
  
 ❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist <br>
  
