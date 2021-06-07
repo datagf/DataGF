@@ -11,24 +11,14 @@
 <div align="center">
     <table>
         <tr>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=datagf&show_icons=true" />
+            <td>		
+		<img src="https://github-readme-stats.vercel.app/api?username=datagf&show_icons=true" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datagf&layout=compact"/>
+		<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datagf" alt="datagf" />               		
             </td>
-        </tr>   
-    </table>
-</div>
-
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=datagf&compact=true" alt="datagf" />
-            </td>
-            <td>
-                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datagf" alt="datagf" />
+	    <td>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=datagf&layout=compact"/>                
             </td>
         </tr>   
     </table>
