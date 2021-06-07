@@ -5,6 +5,10 @@
 </p>
 
 <div align="center">
+  <p><img src="https://github-profile-trophy.vercel.app/?username=datagf&theme=flat&row=1&column=7" /></p>
+</div>
+	
+<div align="center">
     <table>
         <tr>
             <td>
@@ -16,13 +20,25 @@
         </tr>   
     </table>
 </div>
-I am a Data Analysis and Data Science explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink:
+
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=datagf&compact=true" alt="datagf" />
+            </td>
+            <td>
+                <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=datagf" alt="datagf" />
+            </td>
+        </tr>   
+    </table>
+</div>
+
+I am a Data Science and Data Analysis explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink:
  
 ---
 
 <h3> At the Moment... 🚀 </h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=datagf)](https://github.com/datagf/github-profile-trophy)
 
 🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
  
