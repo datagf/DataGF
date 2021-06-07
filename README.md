@@ -22,6 +22,8 @@ I am a Data Analysis and Data Science explorer who is in constant evolution to f
 
 <h3> At the Moment... 🚀 </h3>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=datagf)](https://github.com/datagf/github-profile-trophy)
+
 🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
  
 :books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
