@@ -24,7 +24,7 @@
     </table>
 </div>
 
-I am a Data Science and Data Analysis explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science field. :wink:
+I am a Data Science and Data Analysis explorer who is in constant evolution to facilitating the world with Insights from Data with my Analytical Thinking Skills and Enthusiast about Data Science and AI field. :wink:
  
 ---
 
