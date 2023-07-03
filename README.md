@@ -30,7 +30,7 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
 
 <h3> At the Moment... 🚀 </h3>
 
-🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
+🎯 I’m working on **AI and Public Health Program** project <br>
  
 :books: I’m currently post-graduated 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
  
