@@ -54,7 +54,7 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
 		<p align="center">Gists</p>
             </td>
             <td>		
-		<a href="https://github.com/DataGF/data-science/blob/master/stock-price-s%26p500/stockPriceS%26P500.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
+		<a href="https://github.com/gilguim36/data-science/blob/master/stock-price-s%26p500/stockPriceS%26P500.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
 		<p align="center">S&P500</p>
             </td>
 	    <td>		
