@@ -1,4 +1,4 @@
-### Hello, World!  Gil here <img src="https://media.tenor.com/fPAiSXew-UEAAAAi/spock-head.gif" width="45px"> <br>
+### Hello, World!  Gil here <img src="https://media.tenor.com/XPDcApxhN4UAAAAi/20yearsofrunescape-runescape.gif" width="45px"> <br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gilguim36/files/main/capa-github3.png" width="100%" title="Cover" alt="Github Readme Cover">
