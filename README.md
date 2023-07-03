@@ -105,6 +105,10 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
 		<a href="https://github.com/DataGF/business-analytics/blob/main/predicting-default-risk-new-clients/predicting-default-risk-new-clients.pdf"> <img src="https://raw.githubusercontent.com/DataGF/files/main/interest-rates2.jpg" alt="Predictive Business Analytics" width="100" height="100" />
 		<p align="center">Credit Risk</p>
             </td>
+	    <td>		
+		<a href="https://github.com/datagf/ai-and-public-health/blob/main/README.md"> <img src="https://raw.githubusercontent.com/datagf/files/main/ai-and-healthcare.png" alt="AI and Public Health" width="100" height="100" />
+		<p align="center">AI Healthcare</p>
+            </td>   
         </tr>
     </table>
 </div>
