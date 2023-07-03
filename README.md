@@ -32,17 +32,15 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
 
 🎯 I’m working on **IMDb films: Data Analysis for Beginners** project <br>
  
-:books: I’m currently post-graduating 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
+:books: I’m currently post-graduated 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
  
 😎 <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=black"> Data Science <br>
  
-❤️ I want to be a <img src="https://img.shields.io/badge/-Microsoft Certified Azure-00416b?style=flat&logo=microsoft-azure"> Data Scientist <br>
+💪 I like <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform** <br>
  
-💪 I’m currently learning <img src="http://img.shields.io/badge/-4285F4?style=flat&logo=google%20cloud&logoColor=white"> **Google Cloud Platform** <br>
- 
-🙋‍♂️ I’m looking to collaborate for **Data Science based project** <br>
+🙋‍♂️ I’m collaborating for **Data Science and AI based projects** <br>
   
-💬 Ask me about Data Analysis, Data Science, and any tech-related stuff <br>
+💬 Ask me about Data Analysis, Data Science, AI, and any tech-related stuff <br>
  
 ---
 
