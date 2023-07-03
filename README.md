@@ -48,7 +48,7 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
 <div align="left">
     <table>
         <tr>
-	<h4>Data Science Projects (English)</h4>
+	<h4>Data Science and AI Projects (English)</h4>
 	    <td>		
 		<a href="https://gist.github.com/datagf"> <img src="https://raw.githubusercontent.com/DataGF/files/main/github.png" alt="S&P500" width="100" height="100" />
 		<p align="center">Gists</p>
