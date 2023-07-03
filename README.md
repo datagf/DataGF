@@ -32,7 +32,7 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
 
 🎯 I’m working on **AI and Public Health Program** project <br>
  
-:books: I’m currently post-graduated 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
+:books: I’m a data scientist post-graduated 🤓 at [**Instituto Infnet**](https://www.infnet.edu.br/infnet/) <br>
  
 😎 <img src="https://img.shields.io/badge/-Professional Certificate in IBM-003b6f?style=flat&logo=ibm&logoColor=black"> Data Science <br>
  
