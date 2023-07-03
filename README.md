@@ -79,11 +79,11 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
         <tr>
 	<h4>Data Science Projects (Portuguese)</h4>
             <td>		
-		<a href="https://github.com/DataGF/data-science/blob/master/api-camara-dos-deputados/deputadosAPIDict.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/congresso-nacional.jpg" alt="API Congresso Nacional" width="100" height="100" />
+		<a href="https://github.com/gilguim36/data-science/tree/master/api_camara_deputados"> <img src="https://raw.githubusercontent.com/DataGF/files/main/congresso-nacional.jpg" alt="API Congresso Nacional" width="100" height="100" />
 		<p align="center">Congress API</p>
             </td>
             <td>
-		<a href="https://github.com/DataGF/data-science/blob/master/api-futebol/Semana_2_Atividade_Laborat%C3%B3rio_API_Futebol.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/soccer2-100x100.jpg" alt="API Futebol" width="100" height="100" />
+		<a href="https://github.com/gilguim36/data-science/tree/master/api_futebol"> <img src="https://raw.githubusercontent.com/DataGF/files/main/soccer2-100x100.jpg" alt="API Futebol" width="100" height="100" />
 		<p align="center">Soccer API</p>
             </td>
         </tr>
