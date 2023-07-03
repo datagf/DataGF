@@ -50,11 +50,11 @@ I am a Data Science and Data Analysis explorer who is in constant evolution to f
         <tr>
 	<h4>Data Science and AI Projects (English)</h4>
 	    <td>		
-		<a href="https://gist.github.com/datagf"> <img src="https://raw.githubusercontent.com/DataGF/files/main/github.png" alt="S&P500" width="100" height="100" />
+		<a href="https://gist.github.com/gilguim36"> <img src="https://raw.githubusercontent.com/DataGF/files/main/github.png" alt="S&P500" width="100" height="100" />
 		<p align="center">Gists</p>
             </td>
             <td>		
-		<a href="https://github.com/gilguim36/data-science/blob/master/stock-price-s%26p500/stockPriceS%26P500.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
+		<a href="https://github.com/gilguim36/data-science/blob/master/stock_price_s%26p500/stockPriceS%26P500.ipynb"> <img src="https://raw.githubusercontent.com/DataGF/files/main/markets_stock-indices_930x694-100x100.jpg" alt="S&P500" width="100" height="100" />
 		<p align="center">S&P500</p>
             </td>
 	    <td>		
