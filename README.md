@@ -1,4 +1,4 @@
-### Hello, World!  Gil here <img src="https://media.tenor.com/images/099ee298a01b561c1ed26a6b9a47cbdb/tenor.gif" width="45px"> <br>
+### Hello, World!  Gil here <img src="https://media.tenor.com/G_sqi76kBzkAAAAC/star-trek-star-trek-enterprise.gif" width="45px"> <br>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/gilguim36/files/main/capa-github3.png" width="100%" title="Cover" alt="Github Readme Cover">
